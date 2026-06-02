@@ -71,7 +71,7 @@ adb --version        # ≥1.0.41
 ### 2.1 创建 Android 项目
 
 用 Android Studio 新建一个 Compose 项目，或手动创建：
-
+(使用android cli AI友好)[https://developer.android.google.cn/tools/agents/android-cli?hl=zh-CN]```android create --name MyRustApp --output ./MyRustApp```
 ```
 MyRustApp/
 ├── app/
